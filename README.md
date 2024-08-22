@@ -1,4 +1,4 @@
-# SingaporeAirlinesReview
+# Singapore Airlines Review
 
 ###### Author: Michaen Ho
 
